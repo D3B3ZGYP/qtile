@@ -1,2 +1,1 @@
-# qtile
-qtile config
+This is my personal qtile config for arch (its shit)
